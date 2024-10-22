@@ -10,3 +10,9 @@ ul,li,p,h3,h1 {
     font-family: 'Times New Roman', Times, serif;
     color: #ffffff !important;
 }
+
+img {
+    position: fixed;
+    left: 70%;
+    top: 20%;
+}
