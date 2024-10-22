@@ -5,13 +5,7 @@ body {
     background-color: #000000;
 }
 
-h1 {
-    position: relative;
-    font-family: 'Times New Roman', Times, serif;
-    color: #ffffff;
-}
-
-h3 {
+ul,li,p,h3,h1 {
     position: relative;
     font-family: 'Times New Roman', Times, serif;
     color: #ffffff;
